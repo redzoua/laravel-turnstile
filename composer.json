@@ -1,5 +1,5 @@
 {
-    "name": "coderflex/laravel-turnstile",
+    "name": "redzoua/laravel-turnstile",
     "description": "A package to help you implement the Cloudflare turnstile \"CAPTCHA Alternative\"",
     "keywords": [
         "Coderflex",
@@ -8,12 +8,12 @@
         "cloudflare",
         "turnstile"
     ],
-    "homepage": "https://github.com/coderflexx/laravel-turnstile",
+    "homepage": "https://github.com/redzoua/laravel-turnstile",
     "license": "MIT",
     "authors": [
         {
-            "name": "ousid",
-            "email": "oussama@coderflex.com",
+            "name": "Qalab.dev",
+            "email": "contact@qalab.dev",
             "role": "Developer"
         }
     ],
